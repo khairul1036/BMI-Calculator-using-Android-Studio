@@ -1,4 +1,5 @@
-Instructions:
+Instructions Instructions for BMI Calculator Project:
+
 1. Open Android Studio.
 2. Create a new empty project and name it "My Application".
 3. Copy the "activity_main.xml" file and paste it into the corresponding XML file in your project.
